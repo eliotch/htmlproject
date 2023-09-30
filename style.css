@@ -1,0 +1,42 @@
+#name{
+    color: pink;
+}
+body{
+    font-family: sans-serif;
+    
+}
+table, th, tr, td{
+    table-layout: fixed;
+    width:70%;
+    border:1px solid black;
+}
+#s1{
+    background-color: pink;
+}
+#name2{
+    color:forestgreen;
+}
+#name3{
+    color:violet;
+}
+#i1{
+    width: 400px;
+    length: 600px;
+}
+#a1{
+    float: left;
+    padding-right: 20px;
+}
+#a2{
+
+    align-content: center;
+    padding-right: 20px;
+
+}
+#v1{
+    width: 400px;
+    length: 600px;
+}
+#name4{
+    color: darkred;
+}
